@@ -29,3 +29,8 @@ button{
   width: 102px;
   height: 58px;
 }
+
+.App-header{
+  text-align: center;
+  margin: 20px;
+}
